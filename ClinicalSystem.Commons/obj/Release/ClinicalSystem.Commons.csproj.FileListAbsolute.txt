@@ -1,0 +1,15 @@
+E:\Net\Prueba Tecnica\SistemaClinico\ClinicalSystem.Commons\bin\Release\ClinicalSystem.Commons.dll.config
+E:\Net\Prueba Tecnica\SistemaClinico\ClinicalSystem.Commons\bin\Release\ClinicalSystem.Commons.dll
+E:\Net\Prueba Tecnica\SistemaClinico\ClinicalSystem.Commons\bin\Release\ClinicalSystem.Commons.pdb
+E:\Net\Prueba Tecnica\SistemaClinico\ClinicalSystem.Commons\bin\Release\EntityFramework.dll
+E:\Net\Prueba Tecnica\SistemaClinico\ClinicalSystem.Commons\bin\Release\EntityFramework.SqlServer.dll
+E:\Net\Prueba Tecnica\SistemaClinico\ClinicalSystem.Commons\bin\Release\SistemaClinico.Entities.dll
+E:\Net\Prueba Tecnica\SistemaClinico\ClinicalSystem.Commons\bin\Release\SistemaClinico.Entities.pdb
+E:\Net\Prueba Tecnica\SistemaClinico\ClinicalSystem.Commons\bin\Release\SistemaClinico.Entities.dll.config
+E:\Net\Prueba Tecnica\SistemaClinico\ClinicalSystem.Commons\bin\Release\EntityFramework.xml
+E:\Net\Prueba Tecnica\SistemaClinico\ClinicalSystem.Commons\bin\Release\EntityFramework.SqlServer.xml
+E:\Net\Prueba Tecnica\SistemaClinico\ClinicalSystem.Commons\obj\Release\ClinicalSystem.Commons.csprojAssemblyReference.cache
+E:\Net\Prueba Tecnica\SistemaClinico\ClinicalSystem.Commons\obj\Release\ClinicalSystem.Commons.csproj.CoreCompileInputs.cache
+E:\Net\Prueba Tecnica\SistemaClinico\ClinicalSystem.Commons\obj\Release\ClinicalSystem.Commons.csproj.CopyComplete
+E:\Net\Prueba Tecnica\SistemaClinico\ClinicalSystem.Commons\obj\Release\ClinicalSystem.Commons.dll
+E:\Net\Prueba Tecnica\SistemaClinico\ClinicalSystem.Commons\obj\Release\ClinicalSystem.Commons.pdb

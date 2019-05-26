@@ -1,0 +1,12 @@
+E:\Net\Prueba Tecnica\SistemaClinico\SistemaClinico.Entities\bin\Debug\SistemaClinico.Entities.dll.config
+E:\Net\Prueba Tecnica\SistemaClinico\SistemaClinico.Entities\bin\Debug\SistemaClinico.Entities.dll
+E:\Net\Prueba Tecnica\SistemaClinico\SistemaClinico.Entities\bin\Debug\SistemaClinico.Entities.pdb
+E:\Net\Prueba Tecnica\SistemaClinico\SistemaClinico.Entities\bin\Debug\EntityFramework.dll
+E:\Net\Prueba Tecnica\SistemaClinico\SistemaClinico.Entities\bin\Debug\EntityFramework.SqlServer.dll
+E:\Net\Prueba Tecnica\SistemaClinico\SistemaClinico.Entities\bin\Debug\EntityFramework.xml
+E:\Net\Prueba Tecnica\SistemaClinico\SistemaClinico.Entities\bin\Debug\EntityFramework.SqlServer.xml
+E:\Net\Prueba Tecnica\SistemaClinico\SistemaClinico.Entities\obj\Debug\ClinicalSystem.Entities.csprojAssemblyReference.cache
+E:\Net\Prueba Tecnica\SistemaClinico\SistemaClinico.Entities\obj\Debug\ClinicalSystem.Entities.csproj.CoreCompileInputs.cache
+E:\Net\Prueba Tecnica\SistemaClinico\SistemaClinico.Entities\obj\Debug\ClinicalSystem.Entities.csproj.CopyComplete
+E:\Net\Prueba Tecnica\SistemaClinico\SistemaClinico.Entities\obj\Debug\SistemaClinico.Entities.dll
+E:\Net\Prueba Tecnica\SistemaClinico\SistemaClinico.Entities\obj\Debug\SistemaClinico.Entities.pdb

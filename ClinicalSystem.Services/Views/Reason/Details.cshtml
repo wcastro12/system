@@ -1,0 +1,50 @@
+﻿@model SistemaClinico.Entities.Models.ReasonChangesEntity
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>ReasonChangesEntity</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Order.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Order.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateChanges)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateChanges)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ReasonChangesID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
