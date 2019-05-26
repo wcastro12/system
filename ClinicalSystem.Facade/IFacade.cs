@@ -14,5 +14,7 @@ namespace ClinicalSystem.Facade
         bool Add(T obje);
         bool Change(T obje);
         T Remove(T obje);
+		
+		
     }
 }
